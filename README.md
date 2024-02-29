@@ -27,5 +27,8 @@ git clone https://github.com/DevZRodz/Todo-List.git
 
 ## Screenshots
 
+![Screenshot 2024-02-29 024934](https://github.com/DevZRodz/Todo-List/assets/153594695/21194551-5824-4b27-8093-465da40a9e8e)
+
+
 ## Link
 - https://devzrodz.github.io/Todo-List/
